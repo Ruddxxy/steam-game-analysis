@@ -20,7 +20,7 @@ This project analyzes data from Steam, a popular video game distribution platfor
 
 ## Technologies Used
 - **Python**: For data analysis and visualization.
-- **Libraries: Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Jupyter Notebook**: Interactive coding environment.
 - **Data Source**: Steam API and Kaggle datasets.
 
